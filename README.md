@@ -1,7 +1,7 @@
 # <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmpxeGZ3bmpxeGZ3bmpxeGZ3bmpxeGZ3bmpxeGZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="35"> <samp>PRATYUSH RAJ CHAUHAN</samp>
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&width=500&lines=SOFTWARE+ENGINEER;BUILDING+AI+SYSTEMS;FULL-STACK+DEVELOPER;ALWAYS+LEARNING" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&width=500&lines=SOFTWARE+ENGINEER;BUILDING+AI+SYSTEMS;FULL-STACK+DEVELOPER;INSTALLING+KNOWLEDGE..." alt="Typing SVG" />
 </p>
 
 ---
@@ -52,9 +52,9 @@ Engineered a complete end-to-end web platform for product browsing and order man
 ### 📊 SYSTEM_METRICS
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=chauhan-pratyush&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="Overall Stats" />
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chauhan-pratyush&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Language Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chauhan-pratyush&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chauhan-pratyush&theme=tokyonight&bg_color=0d1117" alt="Profile Details" />
 </p>
 
 ---
