@@ -52,7 +52,8 @@ Engineered a complete end-to-end web platform for product browsing and order man
 ### 📊 SYSTEM_METRICS
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chauhan-pratyush&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chauhan-    pratyush&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" height="195" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chauhan-pratyush&theme=tokyonight&bg_color=0d1117" alt="Language Pie Chart" height="195" />
   <br/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chauhan-pratyush&theme=tokyonight&bg_color=0d1117" alt="Profile Details" />
 </p>
